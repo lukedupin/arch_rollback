@@ -1,5 +1,5 @@
-# arch_rollback
-Roll all your arch packages back to a specific date
+# Arch rollback
+Roll your arch packages back to a specific date. Handy script to unbork your machine. The script leaves no lasting effects on your machine. If you roll back to a given date, and then run pacman -Syu, it'll run as expected.
 
 # Usage
 
